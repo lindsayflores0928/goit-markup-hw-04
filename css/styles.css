@@ -235,6 +235,12 @@ body {
     color: var(--NAVY-BLUE);
 }
 
+.menu-icons {
+    background-color: var(--CLOUD);
+    width="264";
+    height="112";
+}
+
 .nav-link {
     color: var(--NAVY-BLUE);
     line-height: 1.5;
