@@ -216,6 +216,7 @@ body {
 /* TEAM SECTION */
 
 .team {
+    gap: 24px;
     text-align: center;
     font-weight: 700;
     line-height: 1.5;
@@ -239,13 +240,13 @@ body {
 /*team-socials*/
 .menu-team-socials {
     display: flex;
-    /*justify-content: space-around;*/
+    justify-content: center;
+    padding-bottom: 100px;
 }
 
 /*team-socials-icon*/
 .socials-items-links {
     background-color: var(--IRIS);
-    gap: 24px;
     height: 40px;
     width: 40px;
     display: flex;
